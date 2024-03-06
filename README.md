@@ -38,10 +38,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="left">
- <p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=MurshidaMubarak&theme=dark&show_icons=true
+<p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MurshidaMubarak&theme=vision-friendly-dark&hide_progress=true
+<p align="left">
+ <p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=MurshidaMubarak&theme=vision-friendly-dark&show_icons=true
 
    
    <h3 align="left">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MurshidaMubarak&label=Profile%20Views&pretty=false" />
-</a>
+  <img src="https://visitcount.itsvg.in/api?id=MurshidaMubarak&label=Profile%20Views&pretty=false"/></a>
