@@ -28,9 +28,9 @@
 
 <h3 align="left">CONNECTION:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathimamurshidamubarak/" target="blank"><img align="center" 
+<a href="https://www.linkedin.com/in/fathimamurshidamubarak/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-alt="https://www.linkedin.com/in/asma-sayeeda-syed/" height="30" width="40" /></a>
+alt="https://www.linkedin.com/in/fathimamurshidamubarak/" height="30" width="40" /></a>
 
   <!---
   MurshidaMubarak/MurshidaMubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
