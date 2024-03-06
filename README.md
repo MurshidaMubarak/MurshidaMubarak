@@ -30,7 +30,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/fathimamurshidamubarak/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-alt="https://www.linkedin.com/in/fathimamurshidamubarak/" height="30" width="40" /></a>
+alt="https://www.linkedin.com/in/fathimamurshidamubarak/" height="30" width="40" /></a> 
+<p>&nbsp;<img align="center" src=https://img.shields.io/badge/fatimamubarakm1b@gmail.com--white?style=flat&logo=Gmail&logoColor=white
 
   <!---
   MurshidaMubarak/MurshidaMubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
