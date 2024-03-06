@@ -1,12 +1,13 @@
 <h1 align="center">Hi there! 👋, I'm Fathima Murshida Mubarak</h1>
 <h3 align="center">Passionate and detail-focused Data Analyst committed to driving business success through insightful data analysis.</h3>
-- 👋 Hi, I’m @MurshidaMubarak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+• 👋 Hi, I’m Fathima Murshida Mubarak
+
+• 👀 I’m interested in delving deeper into the world of IT and also traveling to explore new destinations ✈️
+
+• 👩‍💻 I’m currently learning Data Analytics and Python
+
+• ⚡ Fun fact: I find solace and contentment from the comfort of my own home. Whether it's curling up with a good book, experimenting with new recipes in the kitchen, or simply unwinding with a favorite movie or TV show, the coziness of home is where i find true joy.
 
 
 
@@ -35,6 +36,6 @@ alt="https://www.linkedin.com/in/asma-sayeeda-syed/" height="30" width="40" /></
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://visitcount.itsvg.in">
+<h3 align="left">
   <img src="https://visitcount.itsvg.in/api?id=MurshidaMubarak&label=Profile%20Views&color=10&pretty=true" />
 </a>
